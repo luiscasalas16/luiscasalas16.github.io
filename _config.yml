@@ -1,33 +1,25 @@
 # Site
-repository: sproogen/resume-theme
+repository: lusalas16/lusalas16.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Luis Carlos Salas Villalobos
+title: Arquitecto de Software
+email: lusalas16@gmail.com
+website: https://luiscasalas16.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+github_username:  luiscasalas16
+linkedin_username: luiscasalas16
+twitter_username: luiscasalas16
+# instagram_username: luiscasalas16
+# facebook_username: luiscasalas16
 
 # Additional icon links
 additional_links:
