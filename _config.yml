@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
   Soy organizado y entusiasta de la programación. Me gusta estudiar constantemente y estar aportando y aprendiendo conocimientos y experiencias de mis compañeros de trabajo.
 
   Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empresa, haciendo propuestas técnicas de arquitecturas lógicas y físicas para aplicaciones, instalando infraestructuras en tierra y en nube, desarrollando arquitecturas, bases de datos, servicios, migradores, herramientas, especificadores, generadores, interpretes, firmadores, etc, además de apoyar a mis compañeros en la solución de problemas técnicos y manteniendo un framework de desarrollo de aplicaciones, que tiene múltiples versiones y ha sido utilizado para la construcción de varias aplicaciones transaccionales en más de 10 años de existencia.
-  
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -54,11 +54,13 @@ content:
   - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: center
+      - layout: left
         title: Grupo Asesor en Informática
         link: https://www.grupoasesor.net/
         sub_title: Arquitecto de Software
         caption: Diciembre 2008 - Presente
+         description: | # this will include new lines to allow paragraphs
+          Grupo Asesor en Informática es una empresa de desarrollo de soluciones a nivel mundial bajo un enfoque de calidad, innovación y agilidad a través de equipos de trabajo comprometidos en los que participan activamente sus clientes.
  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
