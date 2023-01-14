@@ -42,13 +42,21 @@ content:
         caption: Diciembre 2008 - Presente
         description: | # this will include new lines to allow paragraphs
             Grupo Asesor en Informática es una empresa costarricense de desarrollo de soluciones a nivel mundial bajo un enfoque de calidad, innovación y agilidad a través de equipos de trabajo comprometidos en los que participan activamente sus clientes. En la empresa he participado en varios proyectos, entre ellos:
-            - Grupo Asesor, Framework de desarrollo de aplicaciones FastWork.
-              - A
-              - B
-            - Ministerio de Trabajo, Sistema de pensiones de la Dirección Nacional de Pensiones.
-            - Ministerio de Hacienda, Sistema de recursos humanos, planillas y pagos de gobierno central.
-            - Instituto Nacional de Seguros (INS), Sistema de cotización y expedición de seguros.
-            - Superintendencia General de Valores (SUGEVAL), Portal de la institución.
+            - Framework de desarrollo de aplicaciones de Grupo Asesor, utilizado en los proyectos:
+              - Instituto Costarricense de Investigación y Enseñanza en Nutrición y Salud, Sistema de información de laboratorio.
+              - Instituto Costarricense de Investigación y Enseñanza en Nutrición y Salud, Sistema de registro de muestras.
+              - Ministerio de Trabajo, Portal de centro de trabajo del Consejo de Salud Ocupacional.
+              - Alimentos Prosalud, Sistema de evaluación de desempeño.
+              - Ministerio de Obras Públicas y Transportes, Sistema de planificación institucional.
+              - Ministerio de Educación Pública, Sistema de asignación de pecurso humano.
+              - Ministerio de Educación Pública, Sistema de planificación institucional.
+            - IPSUM Consultores, Sistema de planificación estratégica y operativa para organizaciones.
+            - Asamblea Legislativa de Costa Rica, Framework de desarrollo de aplicaciones.
+            - Promotora de Comercio Exterior de Costa Rica, Sistema de ventanilla única de comercio exterior.
+            - Ministerio de Trabajo, Sistema de pensiones.
+            - Ministerio de Hacienda, Sistema de recursos humanos, planillas y pagos.
+            - Instituto Nacional de Seguros, Sistema de cotización y expedición de seguros.
+            - Superintendencia General de Valores, Portal de la institución.
             - CIS-Group, Sistema de distribución.
 
   - title: Educación # Title for the section
@@ -58,26 +66,26 @@ content:
         title: UCR
         caption: 2013 - 2018
         sub_title: Maestría Profesional en Computación e Informática
-        quote: >
-          Universidad de Costa Rica
+        #quote: >
+          #Universidad de Costa Rica
         description: | # this will include new lines to allow paragraphs
-          Estudio de grado. [+](https://pci.ucr.ac.cr/carrera/maestrí-profesional-en-computación-e-informática).
+          Universidad de Costa Rica, estudios de grado. [+](https://pci.ucr.ac.cr/carrera/maestrí-profesional-en-computación-e-informática).
       - layout: left
         title: TEC
         caption: 2005 - 2009
         sub_title: Bachiller en Ingeniería en Computación
-        quote: >
-          Instituto Tecnológico de Costa Rica
+        #quote: >
+          #Instituto Tecnológico de Costa Rica
         description: | # this will include new lines to allow paragraphs
-          Estudio de pregrado. [+](https://www.tec.ac.cr/programas-academicos/bachillerato-ingenieria-computacion).
+          Instituto Tecnológico de Costa Rica, estudios de pregrado. [+](https://www.tec.ac.cr/programas-academicos/bachillerato-ingenieria-computacion).
 
   - title: Cursos y Certificaciones
     layout: text
     content: | # this will include new lines to allow paragraphs
       - GIT + GitHub: Todo un sistema de control de versiones de cero, 2023, 12 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-6a79af79-a685-4b3f-915b-fb9b119a05d8)
+      - Azure Solutions Architect Expert, 06-2021 - 06-2023, Microsoft, [certificado](https://www.credly.com/badges/1f6ffd9a-cfb3-48be-9d9b-911feb661d81)
       - Microsoft Azure Architect Technologies (AZ-303), 06-2021, Microsoft
       - Microsoft Azure Architect Design (AZ-304), 08-2021, Microsoft
-      - Azure Solutions Architect Expert, 06-2021 - 06-2023, Microsoft, [certificado](https://www.credly.com/badges/1f6ffd9a-cfb3-48be-9d9b-911feb661d81)
 
   - title: Portafolio # Title for the section
     layout: list # Type of content section (list/text)
