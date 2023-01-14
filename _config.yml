@@ -40,11 +40,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hola, mi nombre es Luis Carlos y soy Ingeniero en Computación. Actualmente ocupo el rol de Arquitecto de Software. Tengo una experiencia profesional de más de 14 años en proyectos de desarrollo de software. He participado en proyectos de diversos tamaños, complejidades, duraciones, para empresas públicas y privadas.
+  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  Soy organizado y entusiasta de la programación. Me gusta estudiar constantemente y estar aportando y aprendiendo conocimientos y experiencias de mis compañeros de trabajo.
-
-  Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empresa, haciendo propuestas técnicas de arquitecturas lógicas y físicas para aplicaciones, instalando infraestructuras en tierra y en nube, desarrollando arquitecturas, bases de datos, servicios, migradores, herramientas, especificadores, generadores, interpretes, firmadores, etc, además de apoyar a mis compañeros en la solución de problemas técnicos y manteniendo un framework de desarrollo de aplicaciones, que tiene múltiples versiones y ha sido utilizado para la construcción de varias aplicaciones transaccionales en más de 10 años de existencia.
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
