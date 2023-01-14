@@ -7,3 +7,6 @@ refs
 
 https://docs.github.com/es/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
 https://github.com/sproogen/modern-resume-theme/blob/master/_config.yml
+
+https://www.jameswgrant.co.uk/
+https://github.com/sproogen/jameswgrant/blob/master/_config.yml
