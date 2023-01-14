@@ -22,17 +22,17 @@ twitter_username: luiscasalas16
 # facebook_username: luiscasalas16
 
 # About Section
-about_title: Sobre Mí
+# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hola, mi nombre es Luis Carlos y soy Ingeniero en Computación. Actualmente ocupo el rol de Arquitecto de Software. Cuento con una experiencia profesional de más de 14 años en proyectos de desarrollo de software. He participado en proyectos de diversos tamaños, complejidades, duraciones, para empresas públicas y privadas.
+  Hola, mi nombre es Luis Carlos y soy Ingeniero en Computación. Actualmente ocupo el rol de Arquitecto de Software. Tengo una experiencia profesional de más de 14 años en proyectos de desarrollo de software. He participado en proyectos de diversos tamaños, complejidades, duraciones, para empresas públicas y privadas.
 
-  Soy organizado y entusiasta de la programación. Me gusta estudiar constantemente, aportar y aprender conocimientos, así como experiencias de mis compañeros de trabajo.
+  Soy organizado y entusiasta de la programación. Me gusta estudiar constantemente y estar aportando y aprendiendo conocimientos y experiencias de mis compañeros de trabajo.
 
-  Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empresa, haciendo propuestas técnicas de arquitecturas lógicas y físicas para aplicaciones, instalando infraestructuras en tierra y en nube, desarrollando arquitecturas, bases de datos, servicios, migradores, herramientas, especificadores, generadores, intérpretes, firmadores, entre otros; además de apoyar a mis compañeros en la solución de problemas técnicos y realizar el manteniendo de un framework de desarrollo de aplicaciones de la empresa, que tiene diferentes versiones y ha sido utilizado en la construcción de varias aplicaciones en más de 10 años de su existencia.
+  Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empresa, haciendo propuestas técnicas de arquitecturas lógicas y físicas para aplicaciones, instalando infraestructuras en tierra y en nube, desarrollando arquitecturas, bases de datos, servicios, migradores, herramientas, especificadores, generadores, interpretes, firmadores, etc, además de apoyar a mis compañeros en la solución de problemas técnicos y manteniendo un framework de desarrollo de aplicaciones, que tiene múltiples versiones y ha sido utilizado para la construcción de varias aplicaciones transaccionales en más de 10 años de existencia.
 
 content:
-  - title: Proyectos # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
@@ -56,23 +56,20 @@ content:
     content:
       - layout: left
         title: Grupo Asesor en Informática
-        link: www.grupoasesor.net
-        # link_text: boringcompany.com
+        link: https://www.grupoasesor.net/
         sub_title: Arquitecto de Software
         caption: Diciembre 2008 - Presente
-        description: | # this will include new lines to allow paragraphs
-            Grupo Asesor en Informática es una empresa de desarrollo de soluciones a nivel mundial bajo un enfoque de calidad, innovación y agilidad a través de equipos de trabajo comprometidos en los que participan activamente sus clientes.
-
-  - title: Educación # Title for the section
+         description: | # this will include new lines to allow paragraphs
+          Grupo Asesor en Informática es una empresa de desarrollo de soluciones a nivel mundial bajo un enfoque de calidad, innovación y agilidad a través de equipos de trabajo comprometidos en los que participan activamente sus clientes.
+ 
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Harvard University
         caption: 2010 - 2013
         sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
+         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
@@ -95,10 +92,6 @@ footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/resume-theme
-
-sass:
-  sass_dir: _sass
-  style: compressed
 
 plugins:
  - jekyll-seo-tag
