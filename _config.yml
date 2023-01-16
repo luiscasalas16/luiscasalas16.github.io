@@ -98,17 +98,26 @@ content:
           Proyecto en el que una aplicación web (UI) invoca un servicio en wcf (WCF). El proyecto en wcf hace el acceso a la base de datos (DB) con un ensamblado independiente. Existe ensamblado compartido para las entidades (ENT).
       - layout: top-middle
         title: Ejemplo Básico Webpack
-        #link: https://luiscasalas16.github.io/example-webpack-js
-        #link_text: aplicación
         additional_links:
           - title:  aplicación
-            icon: fab fa-window-maximize
+            icon: fa fa-window-maximize
             url: https://luiscasalas16.github.io/example-webpack-js
           - title:  repositorio
-            icon: fab fa-github
+            icon: fa fa-github
             url: https://github.com/luiscasalas16/example-webpack-js
         description: | # this will include new lines to allow paragraphs
           Proyecto de ejemplo de configuración de Webpack 5.
+      - layout: top-middle
+        title: Ejemplo Básico Vite
+        additional_links:
+          - title:  aplicación
+            icon: fa fa-window-maximize
+            url: https://luiscasalas16.github.io/example-vite-js
+          - title:  repositorio
+            icon: fa fa-github
+            url: https://github.com/luiscasalas16/example-vite-js
+        description: | # this will include new lines to allow paragraphs
+          Proyecto de ejemplo de configuración de Vite 4.
 
 # Footer
 footer_show_references: false
