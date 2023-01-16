@@ -102,7 +102,7 @@ content:
         #link_text: aplicación
         additional_links:
           - title:  aplicación
-            icon: fab fa-window
+            icon: fab fa-window-maximize
             url: https://luiscasalas16.github.io/example-webpack-js
           - title:  repositorio
             icon: fab fa-github
