@@ -29,7 +29,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   Soy organizado y entusiasta de la programación. Me gusta estudiar constantemente, aportar y aprender conocimientos, así como experiencias de mis compañeros de trabajo.
 
-  Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empresa, haciendo propuestas técnicas de arquitecturas lógicas y físicas para aplicaciones, instalando infraestructuras en tierra y en nube, desarrollando arquitecturas, bases de datos, servicios, migradores, herramientas, especificadores, generadores, compiladores, intérpretes, firmadores, entre otros; además de apoyar a mis compañeros en la solución de problemas técnicos y realizar el manteniendo de un framework de desarrollo de aplicaciones de la empresa, que tiene diferentes versiones y ha sido utilizado en la construcción de varias aplicaciones en más de diez años de su existencia.
+  Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empresa, haciendo propuestas técnicas de arquitecturas lógicas y físicas para aplicaciones, instalando infraestructuras en tierra y en nube, desarrollando: herramientas, arquitecturas, aplicaciones, bases de datos, servicios, migradores, especificadores, generadores, compiladores, intérpretes, firmadores, entre otros; además de apoyar a mis compañeros en la solución de problemas técnicos y realizar el manteniendo de framework de desarrollo de la empresa, que tiene diferentes versiones y ha sido utilizado en la construcción varias aplicaciones en más de diez años de existencia.
 
 content:
   - title: Experiencia # Title for the section
