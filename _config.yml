@@ -12,7 +12,7 @@ website: https://luiscasalas16.github.io
 email: luiscasalas16@gmail.com
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: never
 
 # Social links
 github_username:  luiscasalas16
@@ -27,7 +27,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hola, mi nombre es Luis Carlos y soy Ingeniero en Computación. Actualmente ocupo el rol de Arquitecto de Software. Cuento con una experiencia profesional de más de 14 años en proyectos de desarrollo de software. He participado en proyectos de diversos tamaños, complejidades, duraciones, para empresas públicas y privadas.
 
-  Soy organizado y entusiasta de la programación. Me gusta estudiar constantemente, aportar y aprender conocimientos, así como experiencias de mis compañeros de trabajo.
+  Soy organizado y entusiasta de la programación. Me gusta estudiar constantemente, aprender y aportar mis conocimientos y experiencias a mis compañeros de trabajo.
 
   Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empresa, haciendo propuestas técnicas de arquitecturas lógicas y físicas para aplicaciones, instalando infraestructuras en tierra y en nube, desarrollando: herramientas, arquitecturas, aplicaciones, bases de datos, servicios, migradores, especificadores, generadores, compiladores, intérpretes, firmadores, entre otros; además de apoyar a mis compañeros en la solución de problemas técnicos y realizar el manteniendo de framework de desarrollo de la empresa, que tiene diferentes versiones y ha sido utilizado en la construcción varias aplicaciones en más de diez años de existencia.
 
@@ -41,22 +41,10 @@ content:
         sub_title: Arquitecto de Software
         caption: Diciembre 2008 - Presente
         description: | # this will include new lines to allow paragraphs
-            Grupo Asesor en Informática es una empresa costarricense de desarrollo de soluciones bajo un enfoque de calidad, innovación y agilidad, a través de equipos de trabajo comprometidos,  en los que participan activamente sus clientes. En la empresa he participado en varios proyectos, entre ellos:
-            - Instituto Costarricense de Investigación y Enseñanza en Nutrición y Salud, Sistema de información de laboratorio.
-            - Instituto Costarricense de Investigación y Enseñanza en Nutrición y Salud, Sistema de registro de muestras.
-            - Ministerio de Trabajo, Portal de centro de trabajo del Consejo de Salud Ocupacional.
-            - IPSUM Consultores, Sistema de planificación estratégica y operativa para organizaciones.
-            - Asamblea Legislativa de Costa Rica, Framework de desarrollo de aplicaciones.
-            - Alimentos Prosalud, Sistema de evaluación de desempeño.
-            - Ministerio de Obras Públicas y Transportes, Sistema de planificación institucional.
-            - Promotora de Comercio Exterior de Costa Rica, Sistema de ventanilla única de comercio exterior.
-            - Ministerio de Educación Pública, Sistema de asignación de pecurso humano.
-            - Ministerio de Educación Pública, Sistema de planificación institucional.
-            - Ministerio de Trabajo, Sistema de pensiones.
-            - Ministerio de Hacienda, Sistema de recursos humanos, planillas y pagos.
-            - Instituto Nacional de Seguros, Sistema de cotización y expedición de seguros.
-            - Superintendencia General de Valores, Portal de la institución.
-            - CIS-Group, Sistema de distribución.
+            Grupo Asesor en Informática es una empresa costarricense de desarrollo de soluciones, bajo un enfoque de calidad, innovación y agilidad.
+            Desde que realicé mi práctica de bachillerato en la empresa, he participado en múltiples proyectos de diversos tamaños, complejidades, duraciones, para empresas públicas y privadas. La mayoría de los proyectos han sido de desarrollo, aunque también he participado en proyectos de consultoría y he impartido capacitaciones.
+            Los proyectos de desarrollo han sido principalmente sistemas transaccionales: de cotización y expedición de seguros, de recursos humanos, planilla y pagos, de pensiones, de planificación estratégica, de gestión de recurso humano, de gestión de permisos de importación y exportación, de evaluación de desempeño, de registro de muestras de laboratorio, de información de laboratorio, entre otros.
+            Actualmente cómo arquitecto de software desempeño múltiples tareas: desarrollo de arquitectura de sistemas (revisión de tecnologías, uso de estándares, uso de buenas prácticas, componentes, comunicaciones, integraciones, repositorios), desarrollo de especificadores y generadores de código, desarrollo de herramientas de migración de código y de datos, desarrollo de componentes de firma digital, instalación y configuración de ambientes de pruebas y producción; análisis, diseño e implementación de requerimientos técnicos; formación, coordinación, seguimiento y liderazgo de equipos de desarrolladores; aseguramiento de la calidad y seguridad del software.
 
   - title: Cursos y Certificaciones
     layout: text
@@ -66,6 +54,7 @@ content:
       - Azure Solutions Architect Expert, 06-2021 - 06-2023, Microsoft, [certificado](https://www.credly.com/badges/1f6ffd9a-cfb3-48be-9d9b-911feb661d81)
       - Microsoft Azure Architect Technologies (AZ-303), 06-2021, Microsoft
       - Microsoft Azure Architect Design (AZ-304), 08-2021, Microsoft
+
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -81,7 +70,6 @@ content:
           - Administración: Métricas de Software, Auditoría de Sistemas Computacionales, Metodologías Ágiles para Desarrollo de Software.
           - Investigación: Experimentación en Ingeniería de Software, Sistemas Complejos Adaptables.
           - Seguridad: Seguridad Aplicada a Software, Seguridad Aplicada a Infraestructura, Métodos de Defensa de Blanco Móvil.
-
       - layout: left
         title: TEC
         caption: 2005 - 2009
@@ -100,12 +88,6 @@ content:
   - title: Portafolio # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      #- layout: top-middle
-      #  title: Ejemplo .NET Framework - ASP.NET - WCF - DB
-      #  link: https://github.com/luiscasalas16/example-netfw-asp-wcf-db
-      #  link_text: repositorio
-      #  description: | # this will include new lines to allow paragraphs
-      #    Proyecto en el que una aplicación web (UI) invoca un servicio en wcf (WCF). El proyecto en wcf hace el acceso a la base de datos (DB) con un ensamblado independiente. Existe ensamblado compartido para las entidades (ENT).
       - layout: top-middle
         title: Ejemplo Básico Webpack
         additional_links:
