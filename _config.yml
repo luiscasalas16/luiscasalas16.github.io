@@ -66,7 +66,7 @@ content:
           <tr>
             <td valign="top" width="50%">
               <div align="center">    
-                Frontend
+                <h4>Frontend</h4>
                 <a href="#"><img title="HTML5" src="./images/html5.svg" width="36" height="36" alt="html5" /></a>
                 <a href="#"><img title="CCS3" src="./images/css3.svg" width="36" height="36" alt="css3" /></a>
                 <a href="#"><img title="Sass" src="./images/sass.svg" width="36" height="36" alt="sass" /></a>
@@ -79,8 +79,8 @@ content:
               </div>
             </td>
             <td valign="top" width="50%">
-              <div align="center">
-                Backend
+              <div align="center">  
+                <h4>Backend</h4>
                 <a href="#"><img title=".Net Core" src="./images/netcore.svg" width="36" height="36" alt="netcore" /></a>
                 <a href="#"><img title=".Net Framework" src="./images/netframework.svg" width="36" height="36" alt="netframework" /></a>
                 <a href="#"><img title="C#" src="./images/csharp.svg" width="36" height="36" alt="csharp" /></a>
@@ -92,7 +92,7 @@ content:
           <tr>
             <td valign="top" width="50%">
               <div align="center">
-                Infraestructura
+                <h4>Infraestructura</h4>
                 <a href="#"><img title="Microsoft Azure" src="./images/azure.svg" width="36" height="36" alt="azure" /></a>
                 <a href="#"><img title="Windows Server" src="./images/windows-server.svg" width="36" height="36" alt="windows-server" /></a>
                 <a href="#"><img title="Microsoft Internet Information Services" src="./images/iis-server.svg" width="36" height="36" alt="iis-server" /></a>
@@ -102,7 +102,7 @@ content:
             </td>
             <td valign="top" width="50%">
               <div align="center">
-                Herramientas
+                <h4>Herramientas</h4>
                 <a href="#"><img title="Visual Studio" src="./images/visual-studio.svg" width="36" height="36" alt="visual-studio" /></a>
                 <a href="#"><img title="Visual Studio Code" src="./images/visual-studio-code.svg" width="36" height="36" alt="visual-studio-code" /></a>
                 <a href="#"><img title="Microsoft SQL Server Management Studio" src="./images/sql-management.png" width="36" height="36" alt="sql-management" /></a>
@@ -113,7 +113,7 @@ content:
           <tr>
             <td valign="top" width="50%">
               <div align="center">
-                DevOps
+                <h4>DevOps</h4>
                   <a href="#"><img title="Git" src="./images/git.svg" width="36" height="36" alt="git" /></a>
                   <a href="#"><img title="GitHub" src="./images/github.svg" width="36" height="36" alt="github" /></a>
                   <a href="#"><img title="Azure DevOps" src="./images/azure-devops.svg" width="36" height="36" alt="azure-devops" /></a>
@@ -121,7 +121,7 @@ content:
             </td>
             <td valign="top" width="50%">
             <div align="center">
-                Aprendiendo
+                <h4>Aprendiendo</h4>
                   <a href="#"><img title="RxJs" src="./images/rxjs.svg" width="36" height="36" alt="rxjs" /></a>
                   <a href="#"><img title="Vue" src="./images/vue.svg" width="36" height="36" alt="vue" /></a>
                   <a href="#"><img title="Docker" src="./images/docker.svg" width="36" height="36" alt="docker" /></a>
