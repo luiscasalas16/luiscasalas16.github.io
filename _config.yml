@@ -65,27 +65,55 @@ content:
         <table>
           <tr>
             <td valign="top" width="50%">
-              <div align="center">    
+              <div align="center">
                 <h4>Frontend</h4>
-                <a href="#"><img title="HTML5" src="./images/html5.svg" width="36" height="36" alt="html5" /></a>
-                <a href="#"><img title="CCS3" src="./images/css3.svg" width="36" height="36" alt="css3" /></a>
-                <a href="#"><img title="Sass" src="./images/sass.svg" width="36" height="36" alt="sass" /></a>
-                <a href="#"><img title="JavaScript" src="./images/javascript.svg" width="36" height="36" alt="javascript" /></a>
-                <a href="#"><img title="TypeScript" src="./images/typescript.svg" width="36" height="36" alt="typescript" /></a>
-                <a href="#"><img title="Bootstrap" src="./images/bootstrap.svg" width="36" height="36" alt="bootstrap" /></a>
-                <a href="#"><img title="jQuery" src="./images/jquery.svg" width="36" height="36" alt="jquery" /></a>
-                <a href="#"><img title="Angular" src="./images/angular.svg" width="36" height="36" alt="angular" /></a>
-                <a href="#"><img title="React" src="./images/react.svg" width="36" height="36" alt="react" /></a>
+                <a href="#">
+                  <img title="HTML5" src="./images/html5.svg" width="36" height="36" alt="html5" />
+                </a>
+                <a href="#">
+                  <img title="CCS3" src="./images/css3.svg" width="36" height="36" alt="css3" />
+                </a>
+                <a href="#">
+                  <img title="Sass" src="./images/sass.svg" width="36" height="36" alt="sass" />
+                </a>
+                <a href="#">
+                  <img title="JavaScript" src="./images/javascript.svg" width="36" height="36" alt="javascript" />
+                </a>
+                <a href="#">
+                  <img title="TypeScript" src="./images/typescript.svg" width="36" height="36" alt="typescript" />
+                </a>
+                <a href="#">
+                  <img title="Bootstrap" src="./images/bootstrap.svg" width="36" height="36" alt="bootstrap" />
+                </a>
+                <a href="#">
+                  <img title="jQuery" src="./images/jquery.svg" width="36" height="36" alt="jquery" />
+                </a>
+                <a href="#">
+                  <img title="Angular" src="./images/angular.svg" width="36" height="36" alt="angular" />
+                </a>
+                <a href="#">
+                  <img title="React" src="./images/react.svg" width="36" height="36" alt="react" />
+                </a>
               </div>
             </td>
             <td valign="top" width="50%">
-              <div align="center">  
+              <div align="center">
                 <h4>Backend</h4>
-                <a href="#"><img title=".Net Core" src="./images/netcore.svg" width="36" height="36" alt="netcore" /></a>
-                <a href="#"><img title=".Net Framework" src="./images/netframework.svg" width="36" height="36" alt="netframework" /></a>
-                <a href="#"><img title="C#" src="./images/csharp.svg" width="36" height="36" alt="csharp" /></a>
-                <a href="#"><img title="Java" src="./images/java.svg" width="36" height="36" alt="java" /></a>
-                <a href="#"><img title="Node.js" src="./images/nodejs.svg" width="36" height="36" alt="nodejs" /></a>
+                <a href="#">
+                  <img title=".Net Core" src="./images/netcore.svg" width="36" height="36" alt="netcore" />
+                </a>
+                <a href="#">
+                  <img title=".Net Framework" src="./images/netframework.svg" width="36" height="36" alt="netframework" />
+                </a>
+                <a href="#">
+                  <img title="C#" src="./images/csharp.svg" width="36" height="36" alt="csharp" />
+                </a>
+                <a href="#">
+                  <img title="Java" src="./images/java.svg" width="36" height="36" alt="java" />
+                </a>
+                <a href="#">
+                  <img title="Node.js" src="./images/nodejs.svg" width="36" height="36" alt="nodejs" />
+                </a>
               </div>
             </td>
           </tr>
@@ -93,20 +121,38 @@ content:
             <td valign="top" width="50%">
               <div align="center">
                 <h4>Infraestructura</h4>
-                <a href="#"><img title="Microsoft Azure" src="./images/azure.svg" width="36" height="36" alt="azure" /></a>
-                <a href="#"><img title="Windows Server" src="./images/windows-server.svg" width="36" height="36" alt="windows-server" /></a>
-                <a href="#"><img title="Microsoft Internet Information Services" src="./images/iis-server.svg" width="36" height="36" alt="iis-server" /></a>
-                <a href="#"><img title="Microsoft SQL Server" src="./images/sql-server.svg" width="36" height="36" alt="sql-server" /></a>
-                <a href="#"><img title="Windows" src="./images/windows.svg" width="36" height="36" alt="windows" /></a>
+                <a href="#">
+                  <img title="Microsoft Azure" src="./images/azure.svg" width="36" height="36" alt="azure" />
+                </a>
+                <a href="#">
+                  <img title="Windows Server" src="./images/windows-server.svg" width="36" height="36" alt="windows-server" />
+                </a>
+                <a href="#">
+                  <img title="Microsoft Internet Information Services" src="./images/iis-server.svg" width="36" height="36" alt="iis-server" />
+                </a>
+                <a href="#">
+                  <img title="Microsoft SQL Server" src="./images/sql-server.svg" width="36" height="36" alt="sql-server" />
+                </a>
+                <a href="#">
+                  <img title="Windows" src="./images/windows.svg" width="36" height="36" alt="windows" />
+                </a>
               </div>
             </td>
             <td valign="top" width="50%">
               <div align="center">
                 <h4>Herramientas</h4>
-                <a href="#"><img title="Visual Studio" src="./images/visual-studio.svg" width="36" height="36" alt="visual-studio" /></a>
-                <a href="#"><img title="Visual Studio Code" src="./images/visual-studio-code.svg" width="36" height="36" alt="visual-studio-code" /></a>
-                <a href="#"><img title="Microsoft SQL Server Management Studio" src="./images/sql-management.png" width="36" height="36" alt="sql-management" /></a>
-                <a href="#"><img title="Eclipse" src="./images/eclipse.svg" width="36" height="36" alt="eclipse" /></a>
+                <a href="#">
+                  <img title="Visual Studio" src="./images/visual-studio.svg" width="36" height="36" alt="visual-studio" />
+                </a>
+                <a href="#">
+                  <img title="Visual Studio Code" src="./images/visual-studio-code.svg" width="36" height="36" alt="visual-studio-code" />
+                </a>
+                <a href="#">
+                  <img title="Microsoft SQL Server Management Studio" src="./images/sql-management.png" width="36" height="36" alt="sql-management" />
+                </a>
+                <a href="#">
+                  <img title="Eclipse" src="./images/eclipse.svg" width="36" height="36" alt="eclipse" />
+                </a>
               </div>
             </td>
           </tr>
@@ -114,25 +160,42 @@ content:
             <td valign="top" width="50%">
               <div align="center">
                 <h4>DevOps</h4>
-                  <a href="#"><img title="Git" src="./images/git.svg" width="36" height="36" alt="git" /></a>
-                  <a href="#"><img title="GitHub" src="./images/github.svg" width="36" height="36" alt="github" /></a>
-                  <a href="#"><img title="Azure DevOps" src="./images/azure-devops.svg" width="36" height="36" alt="azure-devops" /></a>
-                </div>
+                <a href="#">
+                  <img title="Git" src="./images/git.svg" width="36" height="36" alt="git" />
+                </a>
+                <a href="#">
+                  <img title="GitHub" src="./images/github.svg" width="36" height="36" alt="github" />
+                </a>
+                <a href="#">
+                  <img title="Azure DevOps" src="./images/azure-devops.svg" width="36" height="36" alt="azure-devops" />
+                </a>
+              </div>
             </td>
             <td valign="top" width="50%">
-            <div align="center">
+              <div align="center">
                 <h4>Aprendiendo</h4>
-                  <a href="#"><img title="RxJs" src="./images/rxjs.svg" width="36" height="36" alt="rxjs" /></a>
-                  <a href="#"><img title="Vue" src="./images/vue.svg" width="36" height="36" alt="vue" /></a>
-                  <a href="#"><img title="Docker" src="./images/docker.svg" width="36" height="36" alt="docker" /></a>
-                  <a href="#"><img title="Kubernetes" src="./images/kubernetes.svg" width="36" height="36" alt="kubernetes" /></a>
-                  <a href="#"><img title="Dart" src="./images/dart.svg" width="36" height="36" alt="dart" /></a>
-                  <a href="#"><img title="Flutter" src="./images/flutter.svg" width="36" height="36" alt="flutter" /></a>
-                </div>
-            </div>
+                <a href="#">
+                  <img title="RxJs" src="./images/rxjs.svg" width="36" height="36" alt="rxjs" />
+                </a>
+                <a href="#">
+                  <img title="Vue" src="./images/vue.svg" width="36" height="36" alt="vue" />
+                </a>
+                <a href="#">
+                  <img title="Docker" src="./images/docker.svg" width="36" height="36" alt="docker" />
+                </a>
+                <a href="#">
+                  <img title="Kubernetes" src="./images/kubernetes.svg" width="36" height="36" alt="kubernetes" />
+                </a>
+                <a href="#">
+                  <img title="Dart" src="./images/dart.svg" width="36" height="36" alt="dart" />
+                </a>
+                <a href="#">
+                  <img title="Flutter" src="./images/flutter.svg" width="36" height="36" alt="flutter" />
+                </a>
+              </div>
             </td>
           </tr>
-        </table> 
+        </table>
       </div>
 
   - title: Educación # Title for the section
