@@ -8,11 +8,11 @@ version: 2
 # Personal info
 name: Luis Carlos Salas Villalobos
 title: Arquitecto de Software
-email: lusalas16@gmail.com
 website: https://luiscasalas16.github.io
+email: luiscasalas16@gmail.com
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
 github_username:  luiscasalas16
@@ -61,11 +61,11 @@ content:
   - title: Cursos y Certificaciones
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - JavaScript Moderno: Guía para dominar el lenguaje, 2022, 27.5 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-cf6fea63-eb7a-41fe-b64a-8629de6907a6/)
       - GIT + GitHub: Todo un sistema de control de versiones de cero, 2023, 12 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-6a79af79-a685-4b3f-915b-fb9b119a05d8)
       - Azure Solutions Architect Expert, 06-2021 - 06-2023, Microsoft, [certificado](https://www.credly.com/badges/1f6ffd9a-cfb3-48be-9d9b-911feb661d81)
       - Microsoft Azure Architect Technologies (AZ-303), 06-2021, Microsoft
       - Microsoft Azure Architect Design (AZ-304), 08-2021, Microsoft
-
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
     content:
