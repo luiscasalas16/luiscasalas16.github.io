@@ -42,8 +42,11 @@ content:
         caption: Diciembre 2008 - Presente
         description: | # this will include new lines to allow paragraphs
             Grupo Asesor en Informática es una empresa costarricense de desarrollo de soluciones, bajo un enfoque de calidad, innovación y agilidad.
+
             Desde que realicé mi práctica de bachillerato en la empresa, he participado en múltiples proyectos de diversos tamaños, complejidades, duraciones, para empresas públicas y privadas. La mayoría de los proyectos han sido de desarrollo, aunque también he participado en proyectos de consultoría y he impartido capacitaciones.
+
             Los proyectos de desarrollo han sido principalmente sistemas transaccionales: de cotización y expedición de seguros, de recursos humanos, planilla y pagos, de pensiones, de planificación estratégica, de gestión de recurso humano, de gestión de permisos de importación y exportación, de evaluación de desempeño, de registro de muestras de laboratorio, de información de laboratorio, entre otros.
+
             Actualmente cómo arquitecto de software desempeño múltiples tareas: desarrollo de arquitectura de sistemas (revisión de tecnologías, uso de estándares, uso de buenas prácticas, componentes, comunicaciones, integraciones, repositorios), desarrollo de especificadores y generadores de código, desarrollo de herramientas de migración de código y de datos, desarrollo de componentes de firma digital, instalación y configuración de ambientes de pruebas y producción; análisis, diseño e implementación de requerimientos técnicos; formación, coordinación, seguimiento y liderazgo de equipos de desarrolladores; aseguramiento de la calidad y seguridad del software.
 
   - title: Cursos y Certificaciones
@@ -54,6 +57,83 @@ content:
       - Azure Solutions Architect Expert, 06-2021 - 06-2023, Microsoft, [certificado](https://www.credly.com/badges/1f6ffd9a-cfb3-48be-9d9b-911feb661d81)
       - Microsoft Azure Architect Technologies (AZ-303), 06-2021, Microsoft
       - Microsoft Azure Architect Design (AZ-304), 08-2021, Microsoft
+
+  - title: Tecnologías
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      <div align="center">
+        <table>
+          <tr>
+            <td valign="top" width="50%">
+              <div align="center">    
+                <h3>Frontend</h3>
+                <a href="#"><img title="HTML5" src="./images/html5.svg" width="36" height="36" alt="html5" /></a>
+                <a href="#"><img title="CCS3" src="./images/css3.svg" width="36" height="36" alt="css3" /></a>
+                <a href="#"><img title="Sass" src="./images/sass.svg" width="36" height="36" alt="sass" /></a>
+                <a href="#"><img title="JavaScript" src="./images/javascript.svg" width="36" height="36" alt="javascript" /></a>
+                <a href="#"><img title="TypeScript" src="./images/typescript.svg" width="36" height="36" alt="typescript" /></a>
+                <a href="#"><img title="Bootstrap" src="./images/bootstrap.svg" width="36" height="36" alt="bootstrap" /></a>
+                <a href="#"><img title="jQuery" src="./images/jquery.svg" width="36" height="36" alt="jquery" /></a>
+                <a href="#"><img title="Angular" src="./images/angular.svg" width="36" height="36" alt="angular" /></a>
+                <a href="#"><img title="React" src="./images/react.svg" width="36" height="36" alt="react" /></a>
+              </div>
+            </td>
+            <td valign="top" width="50%">
+              <div align="center">  
+                <h3>Backend</h3>
+                <a href="#"><img title=".Net Core" src="./images/netcore.svg" width="36" height="36" alt="netcore" /></a>
+                <a href="#"><img title=".Net Framework" src="./images/netframework.svg" width="36" height="36" alt="netframework" /></a>
+                <a href="#"><img title="C#" src="./images/csharp.svg" width="36" height="36" alt="csharp" /></a>
+                <a href="#"><img title="Java" src="./images/java.svg" width="36" height="36" alt="java" /></a>
+                <a href="#"><img title="Node.js" src="./images/nodejs.svg" width="36" height="36" alt="nodejs" /></a>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" width="50%">
+              <div align="center">
+                <h3>Infraestructura</h3>
+                <a href="#"><img title="Microsoft Azure" src="./images/azure.svg" width="36" height="36" alt="azure" /></a>
+                <a href="#"><img title="Windows Server" src="./images/windows-server.svg" width="36" height="36" alt="windows-server" /></a>
+                <a href="#"><img title="Microsoft Internet Information Services" src="./images/iis-server.svg" width="36" height="36" alt="iis-server" /></a>
+                <a href="#"><img title="Microsoft SQL Server" src="./images/sql-server.svg" width="36" height="36" alt="sql-server" /></a>
+                <a href="#"><img title="Windows" src="./images/windows.svg" width="36" height="36" alt="windows" /></a>
+              </div>
+            </td>
+            <td valign="top" width="50%">
+              <div align="center">
+                <h3>Herramientas</h3>
+                <a href="#"><img title="Visual Studio" src="./images/visual-studio.svg" width="36" height="36" alt="visual-studio" /></a>
+                <a href="#"><img title="Visual Studio Code" src="./images/visual-studio-code.svg" width="36" height="36" alt="visual-studio-code" /></a>
+                <a href="#"><img title="Microsoft SQL Server Management Studio" src="./images/sql-management.png" width="36" height="36" alt="sql-management" /></a>
+                <a href="#"><img title="Eclipse" src="./images/eclipse.svg" width="36" height="36" alt="eclipse" /></a>
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" width="50%">
+              <div align="center">
+                <h3>DevOps</h3>
+                  <a href="#"><img title="Git" src="./images/git.svg" width="36" height="36" alt="git" /></a>
+                  <a href="#"><img title="GitHub" src="./images/github.svg" width="36" height="36" alt="github" /></a>
+                  <a href="#"><img title="Azure DevOps" src="./images/azure-devops.svg" width="36" height="36" alt="azure-devops" /></a>
+                </div>
+            </td>
+            <td valign="top" width="50%">
+            <div align="center">
+                <h3>Aprendiendo</h3>
+                  <a href="#"><img title="RxJs" src="./images/rxjs.svg" width="36" height="36" alt="rxjs" /></a>
+                  <a href="#"><img title="Vue" src="./images/vue.svg" width="36" height="36" alt="vue" /></a>
+                  <a href="#"><img title="Docker" src="./images/docker.svg" width="36" height="36" alt="docker" /></a>
+                  <a href="#"><img title="Kubernetes" src="./images/kubernetes.svg" width="36" height="36" alt="kubernetes" /></a>
+                  <a href="#"><img title="Dart" src="./images/dart.svg" width="36" height="36" alt="dart" /></a>
+                  <a href="#"><img title="Flutter" src="./images/flutter.svg" width="36" height="36" alt="flutter" /></a>
+                </div>
+            </div>
+            </td>
+          </tr>
+        </table> 
+      </div>
 
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
