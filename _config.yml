@@ -49,16 +49,6 @@ content:
 
             Actualmente cómo arquitecto de software desempeño múltiples tareas: desarrollo de arquitectura de sistemas (revisión de tecnologías, uso de estándares, uso de buenas prácticas, componentes, comunicaciones, integraciones, repositorios), desarrollo de especificadores y generadores de código, desarrollo de herramientas de migración de código y de datos, desarrollo de componentes de firma digital, instalación y configuración de ambientes de pruebas y producción; análisis, diseño e implementación de requerimientos técnicos; formación, coordinación, seguimiento y liderazgo de equipos de desarrolladores; aseguramiento de la calidad y seguridad del software.
 
-  - title: Cursos y Certificaciones
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Angular: De cero a experto, 2023, 44 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-ab0116ec-7626-4df2-bdb8-605e06642511/)
-      - JavaScript Moderno: Guía para dominar el lenguaje, 2022, 27.5 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-cf6fea63-eb7a-41fe-b64a-8629de6907a6/)
-      - GIT + GitHub: Todo un sistema de control de versiones de cero, 2023, 12 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-6a79af79-a685-4b3f-915b-fb9b119a05d8)
-      - Azure Solutions Architect Expert, 06-2021 - 06-2023, Microsoft, [certificado](https://www.credly.com/badges/1f6ffd9a-cfb3-48be-9d9b-911feb661d81)
-      - Microsoft Azure Architect Technologies (AZ-303), 06-2021, Microsoft
-      - Microsoft Azure Architect Design (AZ-304), 08-2021, Microsoft
-
   - title: Tecnologías
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -199,6 +189,28 @@ content:
         </table>
       </div>
 
+  - title: Portafolio
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Ejemplo Básico Webpack: Proyecto de ejemplo de configuración de Webpack 5. [link](https://luiscasalas16.github.io/example-webpack-js) [repo](https://github.com/luiscasalas16/example-webpack-js)
+      - Ejemplo Básico Vite: Proyecto de ejemplo de configuración de Vite 4. [link](https://luiscasalas16.github.io/example-vite-js), [repo](https://github.com/luiscasalas16/example-vite-js)
+        <a href="https://luiscasalas16.github.io/example-webpack-js" target="_blank" class="">
+          <i class="fa fa-window-maximize" title="aplicación"></i>
+        </a>
+        <a href="https://luiscasalas16.github.io/example-webpack-js" target="_blank" class="">
+          <i class="fa fa-github" title="repositorio"></i>
+        </a>
+
+  - title: Cursos y Certificaciones
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Angular: De cero a experto, 2023, 44 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-ab0116ec-7626-4df2-bdb8-605e06642511/)
+      - JavaScript Moderno: Guía para dominar el lenguaje, 2022, 27.5 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-cf6fea63-eb7a-41fe-b64a-8629de6907a6/)
+      - GIT + GitHub: Todo un sistema de control de versiones de cero, 2023, 12 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-6a79af79-a685-4b3f-915b-fb9b119a05d8)
+      - Azure Solutions Architect Expert, 06-2021 - 06-2023, Microsoft, [certificado](https://www.credly.com/badges/1f6ffd9a-cfb3-48be-9d9b-911feb661d81)
+      - Microsoft Azure Architect Technologies (AZ-303), 06-2021, Microsoft
+      - Microsoft Azure Architect Design (AZ-304), 08-2021, Microsoft
+
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -228,32 +240,6 @@ content:
           - Matemáticas: Discreta, Calculo, Algebra Lineal, Probabilidad, Estadística, Investigación de Operaciones.
           - Electivas: Comercio Electrónico, Componentes y Comunicaciones en Internet, Desarrollo de Aplicaciones Web.
           - Práctica de Especialidad.
-
-  - title: Portafolio # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Ejemplo Básico Webpack
-        additional_links:
-          - title:  aplicación
-            icon: fa fa-window-maximize
-            url: https://luiscasalas16.github.io/example-webpack-js
-          - title:  repositorio
-            icon: fa fa-github
-            url: https://github.com/luiscasalas16/example-webpack-js
-        description: | # this will include new lines to allow paragraphs
-          Proyecto de ejemplo de configuración de Webpack 5.
-      - layout: top-middle
-        title: Ejemplo Básico Vite
-        additional_links:
-          - title:  aplicación
-            icon: fa fa-window-maximize
-            url: https://luiscasalas16.github.io/example-vite-js
-          - title:  repositorio
-            icon: fa fa-github
-            url: https://github.com/luiscasalas16/example-vite-js
-        description: | # this will include new lines to allow paragraphs
-          Proyecto de ejemplo de configuración de Vite 4.
 
 # Footer
 footer_show_references: false
