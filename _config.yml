@@ -192,14 +192,14 @@ content:
   - title: Portafolio
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Ejemplo Básico Webpack: Proyecto de ejemplo de configuración de Webpack 5.
+      - <strong>Ejemplo Básico Webpack</strong>: Proyecto de ejemplo de configuración de Webpack 5.
         <a href="https://luiscasalas16.github.io/example-webpack-js" target="_blank">
           <i class="fa fa-window-maximize" title="aplicación"></i>
         </a>
         <a href="https://github.com/luiscasalas16/example-webpack-js" target="_blank">
           <i class="fa fa-github" title="repositorio"></i>
         </a>
-      - Ejemplo Básico Vite: Proyecto de ejemplo de configuración de Vite 4.
+      - <strong>Ejemplo Básico Vite</strong>: Proyecto de ejemplo de configuración de Vite 4.
         <a href="https://luiscasalas16.github.io/example-vite-js" target="_blank">
           <i class="fa fa-window-maximize" title="aplicación"></i>
         </a>
