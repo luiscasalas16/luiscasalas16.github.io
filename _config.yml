@@ -21,9 +21,10 @@ twitter_username: luiscasalas16
 # instagram_username: luiscasalas16
 # facebook_username: luiscasalas16
 
+# About Section
 about_title: Sobre Mí
 about_profile_image: images/profile.jpg
-about_content: |
+about_content: | # this will include new lines to allow paragraphs
   Hola, mi nombre es Luis Carlos y soy Ingeniero en Computación. Actualmente ocupo el rol de Arquitecto de Software. Cuento con una experiencia profesional de más de 14 años en proyectos de desarrollo de software. He participado en proyectos de diversos tamaños, complejidades, duraciones, para empresas públicas y privadas.
 
   Soy organizado y entusiasta de la programación. Me gusta estudiar constantemente, aprender y aportar mis conocimientos y experiencias a mis compañeros de trabajo.
@@ -31,15 +32,15 @@ about_content: |
   Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empresa, haciendo propuestas técnicas de arquitecturas lógicas y físicas para aplicaciones, instalando infraestructuras en tierra y en nube, desarrollando: herramientas, arquitecturas, aplicaciones, bases de datos, servicios, migradores, especificadores, generadores, compiladores, intérpretes, firmadores, entre otros; además de apoyar a mis compañeros en la solución de problemas técnicos y realizar el manteniendo de framework de desarrollo de la empresa, que tiene diferentes versiones y ha sido utilizado en la construcción varias aplicaciones en más de diez años de existencia.
 
 content:
-  - title: Experiencia
-    layout: list
+  - title: Experiencia # Title for the section
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Grupo Asesor
         link: www.grupoasesor.net
         sub_title: Arquitecto de Software
         caption: Diciembre 2008 - Presente
-        description: |
+        description: | # this will include new lines to allow paragraphs
             Grupo Asesor en Informática es una empresa costarricense de desarrollo de soluciones, bajo un enfoque de calidad, innovación y agilidad.
 
             Desde que realicé mi práctica de bachillerato en la empresa, he participado en múltiples proyectos de diversos tamaños, complejidades, duraciones, para empresas públicas y privadas. La mayoría de los proyectos han sido de desarrollo, aunque también he participado en proyectos de consultoría y he impartido capacitaciones.
@@ -50,7 +51,7 @@ content:
 
   - title: Tecnologías
     layout: text
-    content: |
+    content: | # this will include new lines to allow paragraphs
       <div align="center">
         <table>
           <tr>
@@ -190,31 +191,18 @@ content:
 
   - title: Portafolio
     layout: text
-    content: |
-      - Notas
-      - <strong>Git</strong>: Repositorio con referencias de Git.
-        <a href="https://github.com/luiscasalas16/notes-git" target="_blank">
-          <i class="fa fa-github" title="repositorio"></i>
-        </a>
-      - <strong>Bootstrap</strong>: Repositorio y aplicación con referencias de Bootstrap.
-        <a href="https://github.com/luiscasalas16/notes-bootstrap" target="_blank">
-          <i class="fa fa-github" title="repositorio"></i>
-        </a>
-        <a href="https://luiscasalas16.github.io/notes-bootstrap" target="_blank">
-          <i class="fa fa-window-maximize" title="aplicación"></i>
-        </a>
-      - <strong>JavaScript</strong>: Repositorio con referencias de JavaScript.
+    content: | # this will include new lines to allow paragraphs
+      - <strong>Notas JavaScript</strong>: Repositorio con referencias de JavaScript.
         <a href="https://github.com/luiscasalas16/notes-javascript" target="_blank">
           <i class="fa fa-github" title="repositorio"></i>
         </a>
-      - <strong>Angular</strong>: Repositorio y aplicación con referencias de Angular.
+      - <strong>Notas Angular</strong>: Proyecto de ejemplo de configuración de Angular.
         <a href="https://github.com/luiscasalas16/notes-angular" target="_blank">
           <i class="fa fa-github" title="repositorio"></i>
         </a>
         <a href="https://luiscasalas16.github.io/notes-angular" target="_blank">
           <i class="fa fa-window-maximize" title="aplicación"></i>
         </a>
-      - Automatizadores
       - <strong>Ejemplo Básico Webpack</strong>: Proyecto de ejemplo de configuración de Webpack 5.
         <a href="https://github.com/luiscasalas16/example-webpack-js" target="_blank">
           <i class="fa fa-github" title="repositorio"></i>
@@ -232,7 +220,7 @@ content:
 
   - title: Cursos y Certificaciones
     layout: text
-    content: |
+    content: | # this will include new lines to allow paragraphs
       - <strong>Angular: De cero a experto</strong>, 2023, 44 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-ab0116ec-7626-4df2-bdb8-605e06642511/)
       - <strong>JavaScript Moderno: Guía para dominar el lenguaje</strong>, 2022, 27.5 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-cf6fea63-eb7a-41fe-b64a-8629de6907a6/)
       - <strong>GIT + GitHub: Todo un sistema de control de versiones de cero</strong>, 2023, 12 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-6a79af79-a685-4b3f-915b-fb9b119a05d8)
@@ -241,14 +229,16 @@ content:
       - <strong>Microsoft Azure Architect Technologies (AZ-303)</strong>, 06-2021, Microsoft
       - <strong>Microsoft Azure Architect Design (AZ-304)</strong>, 08-2021, Microsoft
 
-  - title: Educación
-    layout: list
+  - title: Educación # Title for the section
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: UCR
         caption: 2013 - 2018
         sub_title: Maestría Profesional en Computación e Informática
-        description: |
+        #quote: >
+          #Universidad de Costa Rica
+        description: | # this will include new lines to allow paragraphs
           Universidad de Costa Rica, estudios de grado. [+](https://pci.ucr.ac.cr/carrera/maestrí-profesional-en-computación-e-informática). Cursos:
           - Programación: Recuperación de la Información, Programación para Ambientes Distribuidos.
           - Administración: Métricas de Software, Auditoría de Sistemas Computacionales, Metodologías Ágiles para Desarrollo de Software.
@@ -258,7 +248,9 @@ content:
         title: TEC
         caption: 2005 - 2009
         sub_title: Bachiller en Ingeniería en Computación
-        description: |
+        #quote: >
+          #Instituto Tecnológico de Costa Rica
+        description: | # this will include new lines to allow paragraphs
           Instituto Tecnológico de Costa Rica, estudios de pregrado. [+](https://www.tec.ac.cr/programas-academicos/bachillerato-ingenieria-computacion). Cursos:
           - Programación: Introducción a la Programación, Algoritmos y Estructuras de Datos I, Algoritmos y Estructuras de Datos II, Lenguajes de Programación, Bases de Datos, Compiladores e Intérpretes, Sistemas Operativos, Redes, Inteligencia Artificial.
           - Administración: Comunicación Técnica, Desarrollo de Emprendedores, Administración de Proyectos, Especificaciones de Software, Diseño de Software, Administración de la Función de la Información, Proyecto.
