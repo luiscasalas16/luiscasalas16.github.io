@@ -192,31 +192,33 @@ content:
   - title: Portafolio
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - <strong>Notas JavaScript</strong>: Repositorio con referencias de JavaScript.
-        <a href="https://github.com/luiscasalas16/notes-javascript" target="_blank">
-          <i class="fa fa-github" title="repositorio"></i>
-        </a>
-      - <strong>Notas Angular</strong>: Proyecto de ejemplo de configuración de Angular.
-        <a href="https://github.com/luiscasalas16/notes-angular" target="_blank">
-          <i class="fa fa-github" title="repositorio"></i>
-        </a>
-        <a href="https://luiscasalas16.github.io/notes-angular" target="_blank">
-          <i class="fa fa-window-maximize" title="aplicación"></i>
-        </a>
-      - <strong>Ejemplo Básico Webpack</strong>: Proyecto de ejemplo de configuración de Webpack 5.
-        <a href="https://github.com/luiscasalas16/example-webpack-js" target="_blank">
-          <i class="fa fa-github" title="repositorio"></i>
-        </a>
-        <a href="https://luiscasalas16.github.io/example-webpack-js" target="_blank">
-          <i class="fa fa-window-maximize" title="aplicación"></i>
-        </a>
-      - <strong>Ejemplo Básico Vite</strong>: Proyecto de ejemplo de configuración de Vite 4.
-        <a href="https://github.com/luiscasalas16/example-vite-js" target="_blank">
-          <i class="fa fa-github" title="repositorio"></i>
-        </a>
-        <a href="https://luiscasalas16.github.io/example-vite-js" target="_blank">
-          <i class="fa fa-window-maximize" title="aplicación"></i>
-        </a>
+      - Notas
+        - <strong>Notas JavaScript</strong>: Repositorio con referencias de JavaScript.
+          <a href="https://github.com/luiscasalas16/notes-javascript" target="_blank">
+            <i class="fa fa-github" title="repositorio"></i>
+          </a>
+        - <strong>Notas Angular</strong>: Proyecto de ejemplo de configuración de Angular.
+          <a href="https://github.com/luiscasalas16/notes-angular" target="_blank">
+            <i class="fa fa-github" title="repositorio"></i>
+          </a>
+          <a href="https://luiscasalas16.github.io/notes-angular" target="_blank">
+            <i class="fa fa-window-maximize" title="aplicación"></i>
+          </a>
+      - Empaquetadores
+        - <strong>Ejemplo Básico Webpack</strong>: Proyecto de ejemplo de configuración de Webpack 5.
+          <a href="https://github.com/luiscasalas16/example-webpack-js" target="_blank">
+            <i class="fa fa-github" title="repositorio"></i>
+          </a>
+          <a href="https://luiscasalas16.github.io/example-webpack-js" target="_blank">
+            <i class="fa fa-window-maximize" title="aplicación"></i>
+          </a>
+        - <strong>Ejemplo Básico Vite</strong>: Proyecto de ejemplo de configuración de Vite 4.
+          <a href="https://github.com/luiscasalas16/example-vite-js" target="_blank">
+            <i class="fa fa-github" title="repositorio"></i>
+          </a>
+          <a href="https://luiscasalas16.github.io/example-vite-js" target="_blank">
+            <i class="fa fa-window-maximize" title="aplicación"></i>
+          </a>
 
   - title: Cursos y Certificaciones
     layout: text
