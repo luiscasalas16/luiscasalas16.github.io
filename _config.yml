@@ -193,26 +193,37 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Notas
-        - <strong>Notas JavaScript</strong>: Repositorio con referencias de JavaScript.
+        - <strong>Git</strong>: Repositorio con referencias de Git.
+        <a href="https://github.com/luiscasalas16/notes-git" target="_blank">
+          <i class="fa fa-github" title="repositorio"></i>
+        </a>
+        - <strong>Bootstrap</strong>: Repositorio y aplicación con referencias de Bootstrap.
+          <a href="https://github.com/luiscasalas16/notes-bootstrap" target="_blank">
+            <i class="fa fa-github" title="repositorio"></i>
+          </a>
+          <a href="https://luiscasalas16.github.io/notes-bootstrap" target="_blank">
+            <i class="fa fa-window-maximize" title="aplicación"></i>
+          </a>
+        - <strong>JavaScript</strong>: Repositorio con referencias de JavaScript.
           <a href="https://github.com/luiscasalas16/notes-javascript" target="_blank">
             <i class="fa fa-github" title="repositorio"></i>
           </a>
-        - <strong>Notas Angular</strong>: Proyecto de ejemplo de configuración de Angular.
+        - <strong>Angular</strong>: Repositorio y aplicación con referencias de Angular.
           <a href="https://github.com/luiscasalas16/notes-angular" target="_blank">
             <i class="fa fa-github" title="repositorio"></i>
           </a>
           <a href="https://luiscasalas16.github.io/notes-angular" target="_blank">
             <i class="fa fa-window-maximize" title="aplicación"></i>
           </a>
-      - Empaquetadores
-        - <strong>Ejemplo Básico Webpack</strong>: Proyecto de ejemplo de configuración de Webpack 5.
+      - Automatizadores
+        - <strong>Webpack</strong>: Proyecto de ejemplo de configuración de Webpack 5.
           <a href="https://github.com/luiscasalas16/example-webpack-js" target="_blank">
             <i class="fa fa-github" title="repositorio"></i>
           </a>
           <a href="https://luiscasalas16.github.io/example-webpack-js" target="_blank">
             <i class="fa fa-window-maximize" title="aplicación"></i>
           </a>
-        - <strong>Ejemplo Básico Vite</strong>: Proyecto de ejemplo de configuración de Vite 4.
+        - <strong>Vite</strong>: Proyecto de ejemplo de configuración de Vite 4.
           <a href="https://github.com/luiscasalas16/example-vite-js" target="_blank">
             <i class="fa fa-github" title="repositorio"></i>
           </a>
