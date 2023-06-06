@@ -1,5 +1,0 @@
-https://github.com/sproogen/modern-resume-theme
-https://github.com/sproogen/modern-resume-theme/blob/master/_config.yml
-
-https://www.jameswgrant.co.uk/
-https://github.com/sproogen/jameswgrant/blob/master/_config.yml

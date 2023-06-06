@@ -272,6 +272,23 @@ content:
           - Electivas: Comercio Electrónico, Componentes y Comunicaciones en Internet, Desarrollo de Aplicaciones Web.
           - Práctica de Especialidad.
 
+  - title: Publicaciones
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - <strong>Jun 2020</strong> Una herramienta para la estimación temprana del tamaño funcional del software
+      <a href="https://doi.org/10.23919/cisti49556.2020.9141112" target="_blank">
+        <i class="fa fa-link" title="link"></i>
+      </a>
+      - <strong>Nov 2019</strong> Automated Functional Size Measurement: A Multiple Case Study in the Industry
+      <a href="https://doi.org/10.1007/978-3-030-35333-9_19" target="_blank">
+        <i class="fa fa-link" title="link"></i>
+      </a>
+      - <strong>Oct 2017</strong> Towards an automated functional size measurement procedure: an industrial case study
+      <a href="http://doi.acm.org/10.1145/3143434.3143460" target="_blank">
+        <i class="fa fa-link" title="link"></i>
+      </a>
+       
+
 # Footer
 footer_show_references: false
 
