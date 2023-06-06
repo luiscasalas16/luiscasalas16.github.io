@@ -275,19 +275,22 @@ content:
   - title: Publicaciones
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - <strong>Jun 2020</strong> Una herramienta para la estimación temprana del tamaño funcional del software
+      - Quesada-López, C., Martínez, A., Jenkins, M., Salas, L. C., & Gómez, J. C. (2020, June). <b>Una herramienta para la estimación temprana del tamaño funcional del software.</b> <i>In 2020 15th Iberian Conference on Information Systems and Technologies (CISTI) (pp. 1-6).</i>
       <a href="https://doi.org/10.23919/cisti49556.2020.9141112" target="_blank">
         <i class="fa fa-link" title="link"></i>
       </a>
-      - <strong>Nov 2019</strong> Automated Functional Size Measurement: A Multiple Case Study in the Industry
+      - Quesada-López, C., Martínez, A., Jenkins, M., Salas, L. C., & Gómez, J. C. (2019, November). <b>Automated Functional Size Measurement: A Multiple Case Study in the Industry.</b> <i>In Product-Focused Software Process Improvement: 20th International Conference, PROFES 2019, Barcelona, Spain, November 27–29, 2019, Proceedings 20 (pp. 263-279).</i>
       <a href="https://doi.org/10.1007/978-3-030-35333-9_19" target="_blank">
         <i class="fa fa-link" title="link"></i>
       </a>
-      - <strong>Oct 2017</strong> Towards an automated functional size measurement procedure: an industrial case study
+      - Quesada-López, C., Martínez, A., Jenkins, M., Salas, L. C., & Gómez, J. C. (2017, October). <b>Towards an automated functional size measurement procedure: an industrial case study.</b> <i>In Proceedings of the 27th International Workshop on Software Measurement and 12th International Conference on Software Process and Product Measurement (pp. 138-144).</i>
       <a href="http://doi.acm.org/10.1145/3143434.3143460" target="_blank">
         <i class="fa fa-link" title="link"></i>
       </a>
-       
+      - Quesada-López, C., Martínez, A., Jenkins, M., Salas, L. C., & Gómez, J. C. (2017, September). <b>FastWorks FPA: Una herramienta para automatizar la medición del tamaño funcional.</b> <i>In Simposio Argentino de Ingeniería de Software (ASSE)-JAIIO 46 (Córdoba, 2017).</i>
+      <a href="http://sedici.unlp.edu.ar/handle/10915/66100" target="_blank">
+        <i class="fa fa-link" title="link"></i>
+      </a>
 
 # Footer
 footer_show_references: false
