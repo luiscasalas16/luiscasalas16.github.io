@@ -15,7 +15,7 @@ email: luiscasalas16@gmail.com
 darkmode: never
 
 # Social links
-github_username:  luiscasalas16
+github_username: luiscasalas16
 linkedin_username: luiscasalas16
 twitter_username: luiscasalas16
 # instagram_username: luiscasalas16
@@ -41,13 +41,13 @@ content:
         sub_title: Arquitecto de Software
         caption: Diciembre 2008 - Presente
         description: | # this will include new lines to allow paragraphs
-            Grupo Asesor en Informática es una empresa costarricense de desarrollo de soluciones, bajo un enfoque de calidad, innovación y agilidad.
+          Grupo Asesor en Informática es una empresa costarricense de desarrollo de soluciones, bajo un enfoque de calidad, innovación y agilidad.
 
-            Desde que realicé mi práctica de bachillerato en la empresa, he participado en múltiples proyectos de diversos tamaños, complejidades, duraciones, para empresas públicas y privadas. La mayoría de los proyectos han sido de desarrollo, aunque también he participado en proyectos de consultoría y he impartido capacitaciones.
+          Desde que realicé mi práctica de bachillerato en la empresa, he participado en múltiples proyectos de diversos tamaños, complejidades, duraciones, para empresas públicas y privadas. La mayoría de los proyectos han sido de desarrollo, aunque también he participado en proyectos de consultoría y he impartido capacitaciones.
 
-            Los proyectos de desarrollo han sido principalmente sistemas transaccionales: de cotización y expedición de seguros, de recursos humanos, planilla y pagos, de pensiones, de planificación estratégica, de gestión de recurso humano, de gestión de permisos de importación y exportación, de evaluación de desempeño, de registro de muestras de laboratorio, de información de laboratorio, entre otros.
+          Los proyectos de desarrollo han sido principalmente sistemas transaccionales: de cotización y expedición de seguros, de recursos humanos, planilla y pagos, de pensiones, de planificación estratégica, de gestión de recurso humano, de gestión de permisos de importación y exportación, de evaluación de desempeño, de registro de muestras de laboratorio, de información de laboratorio, entre otros.
 
-            Actualmente cómo arquitecto de software desempeño múltiples tareas: desarrollo de arquitectura de sistemas (revisión de tecnologías, uso de estándares, uso de buenas prácticas, componentes, comunicaciones, integraciones, repositorios), desarrollo de especificadores y generadores de código, desarrollo de herramientas de migración de código y de datos, desarrollo de componentes de firma digital, instalación y configuración de ambientes de pruebas y producción; análisis, diseño e implementación de requerimientos técnicos; formación, coordinación, seguimiento y liderazgo de equipos de desarrolladores; aseguramiento de la calidad y seguridad del software.
+          Actualmente cómo arquitecto de software desempeño múltiples tareas: desarrollo de arquitectura de sistemas (revisión de tecnologías, uso de estándares, uso de buenas prácticas, componentes, comunicaciones, integraciones, repositorios), desarrollo de especificadores y generadores de código, desarrollo de herramientas de migración de código y de datos, desarrollo de componentes de firma digital, instalación y configuración de ambientes de pruebas y producción; análisis, diseño e implementación de requerimientos técnicos; formación, coordinación, seguimiento y liderazgo de equipos de desarrolladores; aseguramiento de la calidad y seguridad del software.
 
   - title: Tecnologías
     layout: text
@@ -234,6 +234,7 @@ content:
   - title: Cursos y Certificaciones
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - <strong>Bootstrap 5: El Curso Completo, Práctico y Desde Cero</strong>, 2023, 34 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-beda4d50-d18b-44ff-97bd-1b6ac9a8c372/)
       - <strong>Angular: De cero a experto</strong>, 2023, 44 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-ab0116ec-7626-4df2-bdb8-605e06642511/)
       - <strong>JavaScript Moderno: Guía para dominar el lenguaje</strong>, 2022, 27.5 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-cf6fea63-eb7a-41fe-b64a-8629de6907a6/)
       - <strong>GIT + GitHub: Todo un sistema de control de versiones de cero</strong>, 2023, 12 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-6a79af79-a685-4b3f-915b-fb9b119a05d8)
@@ -250,7 +251,7 @@ content:
         caption: 2013 - 2018
         sub_title: Maestría Profesional en Computación e Informática
         #quote: >
-          #Universidad de Costa Rica
+        #Universidad de Costa Rica
         description: | # this will include new lines to allow paragraphs
           Universidad de Costa Rica, estudios de grado. [+](https://pci.ucr.ac.cr/carrera/maestrí-profesional-en-computación-e-informática). Cursos:
           - Programación: Recuperación de la Información, Programación para Ambientes Distribuidos.
@@ -262,7 +263,7 @@ content:
         caption: 2005 - 2009
         sub_title: Bachiller en Ingeniería en Computación
         #quote: >
-          #Instituto Tecnológico de Costa Rica
+        #Instituto Tecnológico de Costa Rica
         description: | # this will include new lines to allow paragraphs
           Instituto Tecnológico de Costa Rica, estudios de pregrado. [+](https://www.tec.ac.cr/programas-academicos/bachillerato-ingenieria-computacion). Cursos:
           - Programación: Introducción a la Programación, Algoritmos y Estructuras de Datos I, Algoritmos y Estructuras de Datos II, Lenguajes de Programación, Bases de Datos, Compiladores e Intérpretes, Sistemas Operativos, Redes, Inteligencia Artificial.
@@ -299,4 +300,4 @@ footer_show_references: false
 remote_theme: sproogen/resume-theme
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
