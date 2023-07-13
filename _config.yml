@@ -236,11 +236,11 @@ content:
               <i class="fa fa-window-maximize" title="aplicación"></i>
             </a>
       - Back-End
-        - <strong>.Net Core & .Net Framework APIs</strong>: Proyectos de ejemplo de API en .Net Core y .Net Framework.
+        - <strong>.Net Core & .Net Framework APIs</strong>: Proyectos de ejemplo de APIs.
           <a href="https://github.com/luiscasalas16/example-net-api" target="_blank">
             <i class="fa fa-github" title="repositorio"></i>
           </a>
-        - <strong>.Net Core & .Net Framework WCF</strong>: Proyectos de ejemplo de WCF en .Net Core y .Net Framework.
+        - <strong>.Net Core & .Net Framework WCF</strong>: Proyectos de ejemplo de WCFs.
           <a href="https://github.com/luiscasalas16/example-net-wcf" target="_blank">
             <i class="fa fa-github" title="repositorio"></i>
           </a>
