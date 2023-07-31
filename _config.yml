@@ -197,15 +197,14 @@ content:
           <a href="https://github.com/luiscasalas16/notes-javascript" target="_blank">
             <i class="fa fa-github" title="repositorio"></i>
           </a>
-        - CSS Frameworks
-          - <strong>Bootstrap</strong>: Repositorio y aplicación con referencias de Bootstrap.
-            <a href="https://github.com/luiscasalas16/notes-bootstrap" target="_blank">
+        - JS Frameworks
+          - <strong>React</strong>: Repositorio y aplicación con referencias de React.
+            <a href="https://github.com/luiscasalas16/notes-react" target="_blank">
               <i class="fa fa-github" title="repositorio"></i>
             </a>
-            <a href="https://luiscasalas16.github.io/notes-bootstrap" target="_blank">
+            <a href="https://luiscasalas16.github.io/notes-react" target="_blank">
               <i class="fa fa-window-maximize" title="aplicación"></i>
             </a>
-        - JS Frameworks
           - <strong>Angular</strong>: Repositorio y aplicación con referencias de Angular.
             <a href="https://github.com/luiscasalas16/notes-angular" target="_blank">
               <i class="fa fa-github" title="repositorio"></i>
@@ -213,11 +212,12 @@ content:
             <a href="https://luiscasalas16.github.io/notes-angular" target="_blank">
               <i class="fa fa-window-maximize" title="aplicación"></i>
             </a>
-          - <strong>React</strong>: Repositorio y aplicación con referencias de React.
-            <a href="https://github.com/luiscasalas16/notes-react" target="_blank">
+        - CSS Frameworks
+          - <strong>Bootstrap</strong>: Repositorio y aplicación con referencias de Bootstrap.
+            <a href="https://github.com/luiscasalas16/notes-bootstrap" target="_blank">
               <i class="fa fa-github" title="repositorio"></i>
             </a>
-            <a href="https://luiscasalas16.github.io/notes-react" target="_blank">
+            <a href="https://luiscasalas16.github.io/notes-bootstrap" target="_blank">
               <i class="fa fa-window-maximize" title="aplicación"></i>
             </a>
         - Automatizadores
@@ -259,14 +259,18 @@ content:
   - title: Cursos y Certificaciones
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - <strong>Bootstrap 5: El Curso Completo, Práctico y Desde Cero</strong>, 2023, 34 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-beda4d50-d18b-44ff-97bd-1b6ac9a8c372/)
-      - <strong>Angular: De cero a experto</strong>, 2023, 44 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-ab0116ec-7626-4df2-bdb8-605e06642511/)
-      - <strong>JavaScript Moderno: Guía para dominar el lenguaje</strong>, 2022, 27.5 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-cf6fea63-eb7a-41fe-b64a-8629de6907a6/)
-      - <strong>GIT + GitHub: Todo un sistema de control de versiones de cero</strong>, 2023, 12 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-6a79af79-a685-4b3f-915b-fb9b119a05d8)
-      - <strong>Scrum Fundamentals Certified (SFC)</strong>, 2023, SCRUMstudy , [certificado](https://www.scrumstudy.com/certification/verify?type=SFC&number=959794)
-      - <strong>Azure Solutions Architect Expert</strong>, 06-2021 - 06-2023, Microsoft, [certificado](https://www.credly.com/badges/1f6ffd9a-cfb3-48be-9d9b-911feb661d81)
-      - <strong>Microsoft Azure Architect Technologies (AZ-303)</strong>, 06-2021, Microsoft
-      - <strong>Microsoft Azure Architect Design (AZ-304)</strong>, 08-2021, Microsoft
+      - Front-End
+        - <strong>React: De cero a experto</strong>, 2022, 54 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-72a5b325-bb51-4fbd-b132-3e0a64161a9e/)
+        - <strong>Angular: De cero a experto</strong>, 2023, 44 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-ab0116ec-7626-4df2-bdb8-605e06642511/)
+        - <strong>JavaScript Moderno: Guía para dominar el lenguaje</strong>, 2022, 27.5 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-cf6fea63-eb7a-41fe-b64a-8629de6907a6/)
+        - <strong>Bootstrap 5: El Curso Completo, Práctico y Desde Cero</strong>, 2023, 34 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-beda4d50-d18b-44ff-97bd-1b6ac9a8c372/)
+      - Infraestructura
+        - <strong>Azure Solutions Architect Expert</strong>, 06-2021 - 06-2023, Microsoft, [certificado](https://www.credly.com/badges/1f6ffd9a-cfb3-48be-9d9b-911feb661d81)
+        - <strong>Microsoft Azure Architect Technologies (AZ-303)</strong>, 06-2021, Microsoft
+        - <strong>Microsoft Azure Architect Design (AZ-304)</strong>, 08-2021, Microsoft
+      - DevOps
+        - <strong>GIT + GitHub: Todo un sistema de control de versiones de cero</strong>, 2023, 12 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-6a79af79-a685-4b3f-915b-fb9b119a05d8)
+        - <strong>Scrum Fundamentals Certified (SFC)</strong>, 2023, SCRUMstudy , [certificado](https://www.scrumstudy.com/certification/verify?type=SFC&number=959794)
 
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
