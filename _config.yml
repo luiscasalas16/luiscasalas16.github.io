@@ -221,11 +221,11 @@ content:
             </a>
         - Automatizadores
           - <strong>Webpack</strong>: Proyecto de ejemplo de configuración de Webpack 5.
-            <a href="https://github.com/luiscasalas16/notes-javascript/tree/main/example-webpack-js" target="_blank">
+            <a href="https://github.com/luiscasalas16/notes-javascript/tree/main/example-webpack-js#example-webpack-js" target="_blank">
               <i class="fa fa-github" title="repositorio"></i>
             </a>
           - <strong>Vite</strong>: Proyecto de ejemplo de configuración de Vite 4.
-            <a href="https://github.com/luiscasalas16/notes-javascript/tree/main/example-vite-js" target="_blank">
+            <a href="https://github.com/luiscasalas16/notes-javascript/tree/main/example-vite-js#example-vite-js" target="_blank">
               <i class="fa fa-github" title="repositorio"></i>
             </a>
       - Back-End
@@ -238,10 +238,7 @@ content:
           <a href="https://github.com/luiscasalas16/notes-azure?tab=readme-ov-file#notes-azure" target="_blank">
             <i class="fa fa-github" title="repositorio"></i>
           </a>
-        - <strong>Containers</strong>: Referencias de Docker, Kubernetes y aplicaciones en contenedores en .Net.
-          <a href="https://github.com/luiscasalas16/notes-containers?tab=readme-ov-file#notes-containers" target="_blank">
-            <i class="fa fa-github" title="repositorio"></i>
-          </a>
+        - <strong>Containers</strong>: Referencias y aplicaciones en contenedores.
             - <strong>Docker</strong>
               <a href="https://github.com/luiscasalas16/notes-containers/blob/main/docker/README.md#notes-containers--docker" target="_blank">
                 <i class="fa fa-github" title="repositorio"></i>
