@@ -193,19 +193,19 @@ content:
     content: | # this will include new lines to allow paragraphs
       - Front-End
         - <strong>JavaScript</strong>: Repositorio con referencias de JavaScript.
-          <a href="https://github.com/luiscasalas16/notes-javascript" target="_blank">
+          <a href="https://github.com/luiscasalas16/notes-javascript?tab=readme-ov-file#notes-javascript" target="_blank">
             <i class="fa fa-github" title="repositorio"></i>
           </a>
         - JS Frameworks
           - <strong>React</strong>: Repositorio y aplicación con referencias de React.
-            <a href="https://github.com/luiscasalas16/notes-react" target="_blank">
+            <a href="https://github.com/luiscasalas16/notes-react?tab=readme-ov-file#notes-react" target="_blank">
               <i class="fa fa-github" title="repositorio"></i>
             </a>
             <a href="https://luiscasalas16.github.io/notes-react" target="_blank">
               <i class="fa fa-window-maximize" title="aplicación"></i>
             </a>
           - <strong>Angular</strong>: Repositorio y aplicación con referencias de Angular.
-            <a href="https://github.com/luiscasalas16/notes-angular" target="_blank">
+            <a href="https://github.com/luiscasalas16/notes-angular?tab=readme-ov-file#notes-angular" target="_blank">
               <i class="fa fa-github" title="repositorio"></i>
             </a>
             <a href="https://luiscasalas16.github.io/notes-angular" target="_blank">
@@ -213,7 +213,7 @@ content:
             </a>
         - CSS Frameworks
           - <strong>Bootstrap</strong>: Repositorio y aplicación con referencias de Bootstrap.
-            <a href="https://github.com/luiscasalas16/notes-bootstrap" target="_blank">
+            <a href="https://github.com/luiscasalas16/notes-bootstrap?tab=readme-ov-file#notes-bootstrap" target="_blank">
               <i class="fa fa-github" title="repositorio"></i>
             </a>
             <a href="https://luiscasalas16.github.io/notes-bootstrap" target="_blank">
@@ -221,37 +221,42 @@ content:
             </a>
         - Automatizadores
           - <strong>Webpack</strong>: Proyecto de ejemplo de configuración de Webpack 5.
-            <a href="https://github.com/luiscasalas16/example-webpack-js" target="_blank">
+            <a href="https://github.com/luiscasalas16/notes-javascript/tree/main/example-webpack-js" target="_blank">
               <i class="fa fa-github" title="repositorio"></i>
-            </a>
-            <a href="https://luiscasalas16.github.io/example-webpack-js" target="_blank">
-              <i class="fa fa-window-maximize" title="aplicación"></i>
             </a>
           - <strong>Vite</strong>: Proyecto de ejemplo de configuración de Vite 4.
-            <a href="https://github.com/luiscasalas16/example-vite-js" target="_blank">
+            <a href="https://github.com/luiscasalas16/notes-javascript/tree/main/example-vite-js" target="_blank">
               <i class="fa fa-github" title="repositorio"></i>
-            </a>
-            <a href="https://luiscasalas16.github.io/example-vite-js" target="_blank">
-              <i class="fa fa-window-maximize" title="aplicación"></i>
             </a>
       - Back-End
         - <strong>.Net Core & .Net Framework</strong>
-          - <strong>APIs</strong>: Proyectos de ejemplo de APIs.
-            <a href="https://github.com/luiscasalas16/example-net-api" target="_blank">
-              <i class="fa fa-github" title="repositorio"></i>
-            </a>
-          - <strong>WCFs</strong>: Proyectos de ejemplo de WCFs.
-            <a href="https://github.com/luiscasalas16/example-net-wcf" target="_blank">
-              <i class="fa fa-github" title="repositorio"></i>
-            </a>
-      - Infraestructura
-        - <strong>Azure</strong>: Referencias y aplicaciones de servicios Azure.
-          <a href="https://github.com/luiscasalas16/example-azure" target="_blank">
+          <a href="https://github.com/luiscasalas16/notes-net?tab=readme-ov-file#notes-net" target="_blank">
             <i class="fa fa-github" title="repositorio"></i>
           </a>
+      - Infraestructura
+        - <strong>Azure</strong>: Referencias y aplicaciones de servicios Azure.
+          <a href="https://github.com/luiscasalas16/notes-azure?tab=readme-ov-file#notes-azure" target="_blank">
+            <i class="fa fa-github" title="repositorio"></i>
+          </a>
+        - <strong>Containers</strong>: Referencias de Docker, Kubernetes y aplicaciones en contenedores en .Net.
+          <a href="https://github.com/luiscasalas16/notes-containers?tab=readme-ov-file#notes-containers" target="_blank">
+            <i class="fa fa-github" title="repositorio"></i>
+          </a>
+            - <strong>Docker</strong>
+              <a href="https://github.com/luiscasalas16/notes-containers/blob/main/docker/README.md#notes-containers--docker" target="_blank">
+                <i class="fa fa-github" title="repositorio"></i>
+              </a>
+            - <strong>Kubernetes</strong>
+              <a href="https://github.com/luiscasalas16/notes-containers/tree/main/kubernetes#notes-containers--kubernetes" target="_blank">
+                <i class="fa fa-github" title="repositorio"></i>
+              </a>
+            - <strong>.Net</strong>
+              <a href="https://github.com/luiscasalas16/notes-containers/tree/main/net#notes-containers--net" target="_blank">
+                <i class="fa fa-github" title="repositorio"></i>
+              </a>
       - DevOps
         - <strong>Git</strong>: Repositorio con referencias de Git.
-          <a href="https://github.com/luiscasalas16/notes-git" target="_blank">
+          <a href="https://github.com/luiscasalas16/notes-git?tab=readme-ov-file#notes-git" target="_blank">
             <i class="fa fa-github" title="repositorio"></i>
           </a>
 
