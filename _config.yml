@@ -56,7 +56,7 @@ content:
           <tr>
             <td valign="top" width="50%">
               <div align="center">
-                <h3>Frontend</h3>
+                <h4>Frontend</h4>
                 <img title="HTML5" src="./images/html5.svg" width="40" height="40" alt="HTML5" />
                 <img title="CCS3" src="./images/css3.svg" width="40" height="40" alt="CCS3" />
                 <img title="Sass" src="./images/sass.svg" width="40" height="40" alt="Sass" />
@@ -70,7 +70,7 @@ content:
             </td>
             <td valign="top" width="50%">
               <div align="center">
-                <h3>Backend</h3>
+                <h4>Backend</h4>
                 <img title=".Net Core" src="./images/netcore.svg" width="40" height="40" alt=".Net Core" />
                 <img title=".Net Framework" src="./images/netframework.svg" width="45" height="45" alt=".Net Framework" />
                 <img title="C#" src="./images/csharp.svg" width="40" height="40" alt="C#" />
@@ -82,7 +82,7 @@ content:
           <tr>
             <td valign="top" width="50%">
               <div align="center">
-                <h3>Data</h3>
+                <h4>Data</h4>
                 <img title="Microsoft SQL Server" src="./images/sql-server.svg" width="40" height="40" alt="Microsoft SQL Server" />
                 <img title="Oracle Database" src="./images/oracle.svg" width="40" height="40" alt="Oracle Database" />
                 <img title="Azure SQL Database" src="./images/azure-sql-database.svg" width="40" height="40" alt="Azure SQL Database" />
@@ -98,7 +98,7 @@ content:
             </td>
             <td valign="top" width="50%">
               <div align="center">
-                <h3>Infra</h3>
+                <h4>Infra</h4>
                 <img title="Windows" src="./images/windows.svg" width="40" height="40" alt="Windows" />
                 <img title="Windows Server" src="./images/windows-server.svg" width="40" height="40" alt="Windows Server" />
                 <img title="Microsoft Azure" src="./images/azure.svg" width="40" height="40" alt="Microsoft Azure" />
@@ -111,7 +111,7 @@ content:
           <tr>
             <td valign="top" width="50%">
               <div align="center">
-                <h3>Develop</h3>
+                <h4>Develop</h4>
                 <img title="Visual Studio" src="./images/visual-studio.svg" width="40" height="40" alt="Visual Studio" />
                 <img title="Visual Studio Code" src="./images/visual-studio-code.svg" width="40" height="40" alt="Visual Studio Code" />
                 <img title="Eclipse" src="./images/eclipse.svg" width="40" height="40" alt="Eclipse" />
@@ -123,7 +123,7 @@ content:
             </td>
             <td valign="top" width="50%">
               <div align="center">
-                <h3>SecDevOps</h3>
+                <h4>SecDevOps</h4>
                 <img title="Git" src="./images/git.svg" width="40" height="40" alt="Git" />
                 <img title="GitHub" src="./images/github.svg" width="40" height="40" alt="GitHub" />
                 <img title="Azure DevOps" src="./images/azure-devops.svg" width="40" height="40" alt="Azure DevOps" />
