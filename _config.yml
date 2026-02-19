@@ -98,7 +98,7 @@ content:
             </td>
             <td valign="top" width="50%">
               <div align="center">
-                <h3>Infrastructure</h3>
+                <h3>Infra</h3>
                 <img title="Windows" src="./images/windows.svg" width="40" height="40" alt="Windows" />
                 <img title="Windows Server" src="./images/windows-server.svg" width="40" height="40" alt="Windows Server" />
                 <img title="Microsoft Azure" src="./images/azure.svg" width="40" height="40" alt="Microsoft Azure" />
@@ -111,7 +111,7 @@ content:
           <tr>
             <td valign="top" width="50%">
               <div align="center">
-                <h3>Development</h3>
+                <h3>Develop</h3>
                 <img title="Visual Studio" src="./images/visual-studio.svg" width="40" height="40" alt="Visual Studio" />
                 <img title="Visual Studio Code" src="./images/visual-studio-code.svg" width="40" height="40" alt="Visual Studio Code" />
                 <img title="Eclipse" src="./images/eclipse.svg" width="40" height="40" alt="Eclipse" />
