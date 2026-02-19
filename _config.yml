@@ -96,9 +96,9 @@ content:
             <td valign="top" width="50%">
               <div align="center">
                 <h4>Infra</h4>
+                <img title="Microsoft Azure" src="./images/azure.svg" width="40" height="40" alt="Microsoft Azure" />
                 <img title="Windows" src="./images/windows.svg" width="40" height="40" alt="Windows" />
                 <img title="Windows Server" src="./images/windows-server.svg" width="40" height="40" alt="Windows Server" />
-                <img title="Microsoft Azure" src="./images/azure.svg" width="40" height="40" alt="Microsoft Azure" />
                 <img title="Microsoft IIS" src="./images/iis-server.svg" width="40" height="40" alt="Microsoft IIS" />
                 <img title="Docker" src="./images/docker.svg" width="40" height="40" alt="Docker" />
                 <img title="Kubernetes" src="./images/kubernetes.svg" width="40" height="40" alt="Kubernetes" />
