@@ -87,6 +87,13 @@ content:
                 <img title="Oracle Database" src="./images/oracle.svg" width="40" height="40" alt="Oracle Database" />
                 <img title="Azure SQL Database" src="./images/azure-sql-database.svg" width="40" height="40" alt="Azure SQL Database" />
                 <img title="Power BI" src="./images/powerbi.svg" width="40" height="40" alt="Power BI" />
+                <img title="MySQL " src="./images/mysql.svg" width="40" height="40" alt="MySQL " />
+                <img title="MariaDB " src="./images/mariadb.svg" width="40" height="40" alt="MariaDB " />
+                <img title="PostgreSQL" src="./images/postgres.svg" width="40" height="40" alt="PostgreSQL" />
+                <img title="MongoDB " src="./images/mongodb.svg" width="40" height="40" alt="MongoDB" />
+                <img title="Redis " src="./images/redis.svg" width="40" height="40" alt="Redis" />
+                <img title="Cassandra" src="./images/cassandra.svg" width="40" height="40" alt="Cassandra" />
+                <img title="Neo4j" src="./images/neo4j.svg" width="40" height="40" alt="Neo4j" />
               </div>
             </td>
             <td valign="top" width="50%">
@@ -111,6 +118,7 @@ content:
                 <img title="Microsoft SQL Server Management Studio" src="./images/sql-management.png" width="40" height="40" alt="Microsoft SQL Server Management Studio" />
                 <img title="SQL Developer" src="./images/sql-developer.svg" width="40" height="40" alt="SQL Developer" />
                 <img title="DBeaver " src="./images/dbeaver.svg" width="40" height="40" alt="DBeaver" />
+                <img title="Draw.io" src="./images/drawio.svg" width="40" height="40" alt="Draw.io" />
               </div>
             </td>
             <td valign="top" width="50%">
