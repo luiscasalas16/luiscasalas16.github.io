@@ -56,7 +56,7 @@ content:
           <tr>
             <td valign="top" width="50%">
               <div align="center">
-                <h4>Frontend</h4>
+                <h3>Frontend</h3>
                 <img title="HTML5" src="./images/html5.svg" width="40" height="40" alt="HTML5" />
                 <img title="CCS3" src="./images/css3.svg" width="40" height="40" alt="CCS3" />
                 <img title="Sass" src="./images/sass.svg" width="40" height="40" alt="Sass" />
@@ -70,7 +70,7 @@ content:
             </td>
             <td valign="top" width="50%">
               <div align="center">
-                <h4>Backend</h4>
+                <h3>Backend</h3>
                 <img title=".Net Core" src="./images/netcore.svg" width="40" height="40" alt=".Net Core" />
                 <img title=".Net Framework" src="./images/netframework.svg" width="45" height="45" alt=".Net Framework" />
                 <img title="C#" src="./images/csharp.svg" width="40" height="40" alt="C#" />
@@ -82,15 +82,16 @@ content:
           <tr>
             <td valign="top" width="50%">
               <div align="center">
-                <h4>Data</h4>
+                <h3>Data</h3>
                 <img title="Microsoft SQL Server" src="./images/sql-server.svg" width="40" height="40" alt="Microsoft SQL Server" />
                 <img title="Oracle Database" src="./images/oracle.svg" width="40" height="40" alt="Oracle Database" />
+                <img title="Azure SQL Database" src="./images/azure-sql-database.svg" width="40" height="40" alt="Azure SQL Database" />
                 <img title="Power BI" src="./images/powerbi.svg" width="40" height="40" alt="Power BI" />
               </div>
             </td>
             <td valign="top" width="50%">
               <div align="center">
-                <h4>Infrastructure</h4>
+                <h3>Infrastructure</h3>
                 <img title="Windows" src="./images/windows.svg" width="40" height="40" alt="Windows" />
                 <img title="Windows Server" src="./images/windows-server.svg" width="40" height="40" alt="Windows Server" />
                 <img title="Microsoft Azure" src="./images/azure.svg" width="40" height="40" alt="Microsoft Azure" />
@@ -101,22 +102,24 @@ content:
             </td>
           </tr>
           <tr>
-           <td valign="top" width="50%">
+            <td valign="top" width="50%">
               <div align="center">
-                <h4>Development</h4>
+                <h3>Development</h3>
                 <img title="Visual Studio" src="./images/visual-studio.svg" width="40" height="40" alt="Visual Studio" />
                 <img title="Visual Studio Code" src="./images/visual-studio-code.svg" width="40" height="40" alt="Visual Studio Code" />
-                <img title="Microsoft SQL Server Management Studio" src="./images/sql-management.png" width="40" height="40" alt="Microsoft SQL Server Management Studio" />
                 <img title="Eclipse" src="./images/eclipse.svg" width="40" height="40" alt="Eclipse" />
+                <img title="Microsoft SQL Server Management Studio" src="./images/sql-management.png" width="40" height="40" alt="Microsoft SQL Server Management Studio" />
+                <img title="SQL Developer" src="./images/sql-developer.svg" width="40" height="40" alt="SQL Developer" />
+                <img title="DBeaver " src="./images/dbeaver.svg" width="40" height="40" alt="DBeaver" />
               </div>
             </td>
             <td valign="top" width="50%">
               <div align="center">
-                <h4>SecDevOps</h4>
+                <h3>SecDevOps</h3>
                 <img title="Git" src="./images/git.svg" width="40" height="40" alt="Git" />
                 <img title="GitHub" src="./images/github.svg" width="40" height="40" alt="GitHub" />
                 <img title="Azure DevOps" src="./images/azure-devops.svg" width="40" height="40" alt="Azure DevOps" />
-                <img title="Sonar" src="./images/sonar.png" width="36" height="36" alt="Sonar" />
+                <img title="Sonar" src="./images/sonar.png" width="40" height="40" alt="Sonar" />
               </div>
             </td>
           </tr>
