@@ -203,15 +203,17 @@ content:
   - title: Cursos y Certificaciones
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Front-End
+      - Infraestructura
+        - <strong> Security, Compliance, and Identity Fundamentals</strong>, 10-2025, Microsoft, [certificado](https://learn.microsoft.com/api/credentials/share/en-us/LuisCarlosSalasVillalobos/9D974BE7EAEFAB94?sharingId=25AB12146644AD4B)
+        - <strong>Microsoft Security, Compliance, and Identity Fundamentals (SC-900)</strong>, 10-2025, Microsoft
+        - <strong>Azure Solutions Architect Expert</strong>, 08-2021 - 08-2026, Microsoft, [certificado](https://learn.microsoft.com/api/credentials/share/en-us/LuisCarlosSalasVillalobos/B61B02FB35982EBA?sharingId=25AB12146644AD4B)
+        - <strong>Microsoft Azure Architect Design (AZ-304)</strong>, 08-2021, Microsoft
+        - <strong>Microsoft Azure Architect Technologies (AZ-303)</strong>, 06-2021, Microsoft
+      - Desarrollo
         - <strong>React: De cero a experto</strong>, 2022, 54 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-72a5b325-bb51-4fbd-b132-3e0a64161a9e/)
         - <strong>Angular: De cero a experto</strong>, 2023, 44 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-ab0116ec-7626-4df2-bdb8-605e06642511/)
         - <strong>JavaScript Moderno: Guía para dominar el lenguaje</strong>, 2022, 27.5 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-cf6fea63-eb7a-41fe-b64a-8629de6907a6/)
         - <strong>Bootstrap 5: El Curso Completo, Práctico y Desde Cero</strong>, 2023, 34 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-beda4d50-d18b-44ff-97bd-1b6ac9a8c372/)
-      - Infraestructura
-        - <strong>Azure Solutions Architect Expert</strong>, 08-2021 - 08-2024, Microsoft, [certificado](https://learn.microsoft.com/api/credentials/share/en-us/LuisCarlosSalasVillalobos/B61B02FB35982EBA?sharingId=25AB12146644AD4B)
-        - <strong>Microsoft Azure Architect Technologies (AZ-303)</strong>, 06-2021, Microsoft
-        - <strong>Microsoft Azure Architect Design (AZ-304)</strong>, 08-2021, Microsoft
       - DevOps
         - <strong>GIT + GitHub: Todo un sistema de control de versiones de cero</strong>, 2023, 12 horas, Udemy, [certificado](https://www.udemy.com/certificate/UC-6a79af79-a685-4b3f-915b-fb9b119a05d8)
         - <strong>Scrum Fundamentals Certified (SFC)</strong>, 2023, SCRUMstudy , [certificado](https://www.scrumstudy.com/certification/verify?type=SFC&number=959794)
