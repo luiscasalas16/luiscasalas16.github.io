@@ -21,12 +21,13 @@ linkedin_username: luiscasalas16
 about_title: Sobre Mí
 about_profile_image: images/profile2024.png
 about_content: | # this will include new lines to allow paragraphs
-  Hola, mi nombre es Luis Carlos y soy Ingeniero en Computación. Actualmente ocupo el rol de Arquitecto de Software. Cuento con una experiencia profesional de más de 16 años en proyectos de desarrollo de software. He participado en proyectos de diversos tamaños, complejidades, duraciones, para empresas públicas y privadas.
+  Soy Ingeniero en Computación y actualmente desempeño el rol de Arquitecto de Software. Cuento con más de 16 años de experiencia profesional en proyectos de desarrollo de software, participando en iniciativas de distintos tamaños, niveles de complejidad y duración para organizaciones públicas y privadas.
 
-  Soy organizado y entusiasta de la programación. Me gusta estudiar constantemente, aprender y aportar mis conocimientos y experiencias a mis compañeros de trabajo.
+  Me caracterizo por ser una persona organizada y entusiasta de la programación. Me interesa estudiar constantemente, aprender nuevas tecnologías y compartir mis conocimientos y experiencias con mis colegas.
 
-  Mi trabajo actual consiste en apoyar técnicamente varios proyectos de la empresa, haciendo propuestas técnicas de arquitecturas lógicas y físicas para aplicaciones, instalando infraestructuras en tierra y en nube, desarrollando: herramientas, arquitecturas, aplicaciones, bases de datos, servicios, migradores, especificadores, generadores, compiladores, intérpretes, firmadores, entre otros; además de apoyar a mis compañeros en la solución de problemas técnicos y realizar el manteniendo de framework de desarrollo de la empresa, que tiene diferentes versiones y ha sido utilizado en la construcción varias aplicaciones en más de diez años de existencia.
+  Actualmente mi trabajo consiste en apoyar técnicamente diversos proyectos de la empresa, definiendo y proponiendo arquitecturas lógicas y físicas para aplicaciones, así como diseñando e implementando infraestructuras tanto en entornos locales como en la nube. También participo en el desarrollo de herramientas, aplicaciones, bases de datos y servicios, así como en la construcción de utilidades técnicas especializadas como migradores, especificadores, generadores, compiladores, intérpretes y firmadores, entre otros. Además, apoyo y oriento a los equipos en la resolución de problemas técnicos y realizo el mantenimiento del framework de desarrollo de la empresa, el cual cuenta con diferentes versiones y ha sido utilizado durante más de diez años en la construcción de múltiples aplicaciones.
 
+  Adicionalmente, soy profesor en la Escuela de Ciencias de la Computación e Informática de la Universidad de Costa Rica, donde imparto cursos relacionados con ingeniería de software y bases de datos a estudiantes de bachillerato.
 content:
   - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
@@ -37,14 +38,29 @@ content:
         sub_title: Arquitecto de Software
         caption: Diciembre 2008 - Presente
         description: | # this will include new lines to allow paragraphs
-          Grupo Asesor en Informática es una empresa costarricense de desarrollo de soluciones, bajo un enfoque de calidad, innovación y agilidad.
+          Grupo Asesor en Informática es una empresa costarricense dedicada al desarrollo de soluciones de software, con un enfoque en calidad, innovación y agilidad.
 
-          Desde que realicé mi práctica de bachillerato en la empresa, he participado en múltiples proyectos de diversos tamaños, complejidades, duraciones, para empresas públicas y privadas. La mayoría de los proyectos han sido de desarrollo, aunque también he participado en proyectos de consultoría y he impartido capacitaciones.
+          Desde que realicé mi práctica de bachillerato en la empresa, he participado en múltiples proyectos para organizaciones públicas y privadas, de distintos tamaños, niveles de complejidad y duración. La mayoría de los proyectos han sido de desarrollo de software, aunque también he participado en iniciativas de consultoría e impartido capacitaciones técnicas.
 
-          Los proyectos de desarrollo han sido principalmente sistemas transaccionales: de cotización y expedición de seguros, de recursos humanos, planilla y pagos, de pensiones, de planificación estratégica, de gestión de recurso humano, de gestión de permisos de importación y exportación, de evaluación de desempeño, de registro de muestras de laboratorio, de información de laboratorio, entre otros.
+          Los proyectos de desarrollo han sido principalmente sistemas transaccionales, incluyendo soluciones para cotización y expedición de seguros, gestión de recursos humanos, planillas y pagos, administración de pensiones, planificación estratégica, gestión de permisos de importación y exportación, evaluación de desempeño, registro e información de laboratorio, entre otros.
 
-          Actualmente cómo arquitecto de software desempeño múltiples tareas: desarrollo de arquitectura de sistemas (revisión de tecnologías, uso de estándares, uso de buenas prácticas, componentes, comunicaciones, integraciones, repositorios), desarrollo de especificadores y generadores de código, desarrollo de herramientas de migración de código y de datos, desarrollo de componentes de firma digital, instalación y configuración de ambientes de pruebas y producción; análisis, diseño e implementación de requerimientos técnicos; formación, coordinación, seguimiento y liderazgo de equipos de desarrolladores; aseguramiento de la calidad y seguridad del software.
+          Actualmente, como arquitecto de software, participo en el diseño y evolución de la arquitectura de los sistemas, incluyendo la selección de tecnologías, definición de estándares y buenas prácticas, diseño de componentes, mecanismos de comunicación e integración entre sistemas, y organización de repositorios de código.
 
+          También participo en el desarrollo de herramientas técnicas especializadas, como especificadores y generadores de código, herramientas de migración de código y datos, y componentes relacionados con firma digital. Adicionalmente, realizo instalación y configuración de ambientes de prueba y producción, participo en el análisis y diseño de requerimientos técnicos, y colaboro en la formación, coordinación y seguimiento de equipos de desarrollo, así como en el aseguramiento de la calidad y seguridad del software.
+      - layout: left
+        title: Universidad de Costa Rica (UCR)
+        link: www.ecci.ucr.ac.cr
+        sub_title: Profesor
+        caption: Agosto 2024 - Presente
+        description: | # this will include new lines to allow paragraphs
+          La Universidad de Costa Rica es una institución pública de educación superior y una de las universidades más reconocidas de la región.
+
+          Como profesor en la Escuela de Ciencias de la Computación e Informática, imparto cursos del programa de Bachillerato en Ciencias de la Computación e Informática relacionados con la ingeniería de software y las bases de datos, integrando en la docencia la experiencia adquirida en proyectos reales de desarrollo de software.
+
+          Cursos impartidos:
+            * CI-0127 Bases de Datos
+            * CI-0141 Bases de Datos Avanzadas
+            * CI-0128 Proyecto Integrador de Ingeniería de Software y Bases de Datos
   - title: Tecnologías
     layout: text
     content: | # this will include new lines to allow paragraphs
